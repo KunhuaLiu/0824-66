@@ -19,6 +19,7 @@ namespace Test
                      Console.WriteLine((i + 1) + "月有" + day[i] + "天");       //输出的信息
                  }
             Console.WriteLine("dfsdfsd");
+            Console.WriteLine("我来了》“");
              Console.ReadLine();
             Console.ReadLine();
         }
