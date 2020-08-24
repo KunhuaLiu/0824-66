@@ -20,7 +20,8 @@ namespace Test
                  }
             Console.WriteLine("dfsdfsd");
             Console.WriteLine("我来了》“");
-             Console.ReadLine();
+            Console.WriteLine("我很棒“");
+            Console.ReadLine();
             Console.ReadLine();
         }
     }
